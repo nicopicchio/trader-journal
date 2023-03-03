@@ -1,9 +1,3 @@
-.form-container {
-  width: 400px;
-  height: 100%;
-  margin: auto;
-}
-
 h1 {
   text-align: center;
 }
@@ -15,4 +9,10 @@ form {
 button {
   width: 50%;
   margin: 1rem auto;
+}
+
+.form-container {
+  width: 400px;
+  height: max-content;
+  margin: auto;
 }
