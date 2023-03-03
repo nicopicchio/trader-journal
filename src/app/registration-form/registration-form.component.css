@@ -1,0 +1,18 @@
+.form-container {
+  width: 400px;
+  height: 100%;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: grid;
+}
+
+button {
+  width: 50%;
+  margin: 1rem auto;
+}
