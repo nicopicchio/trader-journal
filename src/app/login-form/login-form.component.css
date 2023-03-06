@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+form {
+  display: grid;
+  width: 80%;
+}
+
+button {
+  width: 80%;
+  margin: 1rem auto;
+}
+
+img {
+  width: 160px;
+}
+
+.form-container {
+  display: grid;
+  justify-items: center;
+}

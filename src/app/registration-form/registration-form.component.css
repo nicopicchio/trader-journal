@@ -4,15 +4,19 @@ h1 {
 
 form {
   display: grid;
+  width: 80%;
 }
 
 button {
-  width: 50%;
+  width: 80%;
   margin: 1rem auto;
 }
 
+img {
+  width: 160px;
+}
+
 .form-container {
-  width: 400px;
-  height: max-content;
-  margin: auto;
+  display: grid;
+  justify-items: center;
 }
